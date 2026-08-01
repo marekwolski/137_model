@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Introduction"
-permalink: /
+permalink: /introduction
 ---
 
 # Introduction to the 1-3-7 Model
