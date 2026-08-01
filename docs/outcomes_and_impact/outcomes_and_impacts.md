@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Outcomes and Impacts of the digital workplace"
-permalink: /outcomes_and_impacts
+permalink: /outcomes/outcomes_and_impacts
 ---
 
 # Outcomes and Impacts
