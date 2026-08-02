@@ -8,7 +8,7 @@ This is my 1-3-7 reference model for the modern digital workplace.
 
 It addresses the scope and purpose of the modern digital workplace, the three Outcome Domains or "Experiences" through which we can decide what good needs to look like and describes the seven core links in the Value Chain that exist in any worthwhile modern digital workplace.
 
-Start here for the [Introduction]({{site.baseurl}}/docs/Introduction.md) or jump on to the [Contents](docs/Contents.md).
+Start here for the [Introduction]({{site.baseurl}}/introduction.md) or jump on to the [Contents](docs/Contents.md).
 
 I decided to write this guide after failing to find anything like it:
 
