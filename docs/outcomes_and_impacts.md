@@ -2,7 +2,7 @@
 layout: page
 title: "The Outcomes and Impacts of the digital workplace"
 permalink: /outcomes_and_impacts
-nav_order: 3
+nav_order: 4
 ---
 
 # Outcomes and Impacts
