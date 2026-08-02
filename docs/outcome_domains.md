@@ -3,6 +3,7 @@ layout: page
 title: "The Digital Workplace Outcome Domains"
 permalink: /outcome_domains
 nav_order: 4
+has_children: true
 ---
 
 # Outcomes
