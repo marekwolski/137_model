@@ -3,3 +3,5 @@ description: A reference model for the modern digital workplace
 theme: just-the-docs
 
 url: https://marekdev.wolski.me.uk/137_model/
+
+footer_content: "Footer text for every page."
