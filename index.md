@@ -19,4 +19,4 @@ I decided to write this guide after failing to find anything like it:
 
 I work as an Enterprise Architect for a systems integrator and it's my job to collect **all** the pieces of a solution that are required and knit them together into something **that works for all the stakeholders**.
 
-If you have any comments or questions then I'd love to hear from you, so please do get in contact. If you have something you'd like to contribute then, again, please do contact me and let's see if we can put the power of GitHub to good use!
+If you have any comments or questions then I'd love to hear from you, so please do get in contact. If you have something you'd like to contribute then, again, please do contact me and let's see if we can put the power of GitHub to good use! [Here's the repo for this site](https://marekdev.wolski.me.uk/137_model/).
