@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "The Outcomes and Impacts of the digital workplace"
-permalink: /outcomes/outcomes_and_impacts
+permalink: /outcomes_and_impacts
+nav_order: 3
 ---
 
 # Outcomes and Impacts
@@ -9,4 +10,3 @@ permalink: /outcomes/outcomes_and_impacts
 What outcomes should a modern digital workplace be seeking to deliver?
 
 What impact should it have for its users and for the business?
-

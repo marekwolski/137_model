@@ -1,7 +1,12 @@
 ---
 layout: page
-title: "Page 1"
-permalink: /page1
+title: "The Digital Workplace Value Chain"
+permalink: /value_chain
+nav_order: 4
 ---
 
-# Page 1 of the 1-3-7 Model
+# The Digital Workplace Value Chain
+
+- what is a value chain?
+- how does the concept apply to the digital workplace?
+- what are the core links in this value chain?
