@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Business Experience Outcome Domains"
+title: "The Business Experience Outcome Domain"
 permalink: /business_experience
 nav_order: 2
 parent: "The Digital Workplace Outcome Domains"

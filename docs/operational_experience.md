@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Oprational Experience Outcome Domains"
+title: "The Oprational Experience Outcome Domain"
 permalink: /operational_experience
 nav_order: 3
 parent: "The Digital Workplace Outcome Domains"
