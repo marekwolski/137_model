@@ -1,5 +1,5 @@
 ---
-title: "137 Reference Model"
+title: "137 Reference Model for the Digital Workplace"
 layout: page
 permalink: /index
 nav_order: 1
