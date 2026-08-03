@@ -14,6 +14,8 @@ It addresses:
 
 Start here for the [Introduction]({{site.baseurl}}/introduction).
 
+## Why ... ?
+
 I decided to write this guide after failing to find anything like it:
 - that wasn't compromised by the need of a vendor to sell their stuff
 - or skewed by someone dazzled by the latest wizzy thing.
