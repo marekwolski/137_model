@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+permalink: /index
 nav_order: 1
 ---
 # Reference model for the modern digital workplace
