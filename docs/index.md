@@ -1,7 +1,6 @@
 ---
-title: "137 Reference Model for the Digital Workplace"
-layout: page
-permalink: /index
+title: Home
+layout: default
 nav_order: 1
 ---
 # Reference model for the modern digital workplace
