@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: "137 Reference Model"
+layout: page
 permalink: /index
 nav_order: 1
 ---
