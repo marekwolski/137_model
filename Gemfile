@@ -8,4 +8,4 @@ gem "just-the-docs", "0.12.0" # pinned to the current release
 
 #gem "github-pages"
 #gem "just-the-docs"
-gem "jekyll-remote-theme"
+#gem "jekyll-remote-theme"
