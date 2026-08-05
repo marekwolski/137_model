@@ -4,14 +4,16 @@ layout: home
 permalink: /
 nav_order: 1
 ---
-# A reference model for the modern digital workplace
+# The Official Guide to the 1-3-7 Model
 
-This is my 1-3-7 reference model for the modern digital workplace.
+## A reference model for the modern digital workplace
+
+This is the official guide to my 1-3-7 reference model for the modern digital workplace.
 
 It addresses:
-- "1": the purpose of the modern digital workplace,
-- "3": the three Outcome Domains or "experiences" through which we can decide what good needs to look like,
-- "7": the seven core links in the Value Chain that comprise the modern digital workplace.
+- "1": the [Purpose]({{site.baseurl}}/purpose) of the modern digital workplace
+- "3": the three [Outcome Domains]({{site.baseurl}}/outcome_domains) or "experiences" through which we can decide what good needs to look like
+- "7": the seven core links in the [Value Chain]({{site.baseurl}}/value_chain) that comprise the modern digital workplace.
 
 Start here for the [Introduction]({{site.baseurl}}/introduction).
 
