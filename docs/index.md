@@ -8,6 +8,8 @@ nav_order: 1
 
 ## A reference model for the modern digital workplace
 
+
+
 This is the official guide to my 1-3-7 reference model for the modern digital workplace.
 
 It addresses:
