@@ -16,4 +16,6 @@ I work as a Chief Architect for a systems integrator on a large digital workplac
 
 If you have any comments or questions then I'd love to hear from you, so please do get in contact. If you have something you'd like to contribute then, again, please do contact me and let's see if we can put the power of GitHub to good use!
 
-A shout out here is only right for the teams behind Jekyll and Just The Docs for the tools to create a web site so quickly and that works so well. Thanks guys!
+A shout out here is only right for the teams behind Jekyll and Just The Docs for the tools to create a web site so quickly and that works so well. 
+And, of course, to the folks at GitHub for such a fantastic system.
+Thanks guys!
