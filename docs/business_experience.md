@@ -10,3 +10,6 @@ parent: "The Digital Workplace Outcome Domains"
 
 What outcomes should a modern digital workplace be seeking to deliver for the business?
 
+Does the digital workplace help or hinder those running the business?
+
+Can it adapt to ebbs and flows in the business?
