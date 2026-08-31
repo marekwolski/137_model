@@ -18,9 +18,7 @@ What outcomes should a modern digital workplace be seeking to deliver?
 
 
 
-The Purpose of the Digital Workplace is to connect users to the applications, data and other people they need to get their work done.
-
-The User Experience is only one of three dimensions that a digital workplace needs to satisfy.
+While the purpose of the Digital Workplace is to connect users to the applications, data and other people they need to get their work done, the User Experience is only one of three dimensions that a digital workplace needs to satisfy.
 
 To be viable, a digital workplace needs to deliver across three “experience” viewpoints simultaneously:
 

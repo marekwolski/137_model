@@ -3,7 +3,7 @@ layout: page
 title: "Productivity, Collaboration and Augmentation"
 permalink: /productivity
 nav_order: 5
-parent: "The Digital Workplace Value Chain"
+parent: "The Digital Workplace Capability Areas"
 ---
 
 # Productivity, Collaboration and Augmentation

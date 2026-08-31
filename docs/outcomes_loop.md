@@ -3,7 +3,7 @@ layout: page
 title: "Outcomes Loop"
 permalink: /outcomes_loop
 nav_order: 7
-parent: "The Digital Workplace Value Chain"
+parent: "The Digital Workplace Capability Areas"
 ---
 
 # The Outcomes Loop

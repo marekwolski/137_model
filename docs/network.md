@@ -3,7 +3,7 @@ layout: page
 title: "Network"
 permalink: /network
 nav_order: 4
-parent: "The Digital Workplace Value Chain"
+parent: "The Digital Workplace Capability Areas"
 ---
 
 # Network
@@ -15,6 +15,7 @@ parent: "The Digital Workplace Value Chain"
 - 3rd-party public networks
 - 3rd-party private networks
 - VPN
+- SASE
 
 
 ### Proxies, Filters and Relays

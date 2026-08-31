@@ -3,7 +3,7 @@ layout: page
 title: "User Support"
 permalink: /user_support
 nav_order: 6
-parent: "The Digital Workplace Value Chain"
+parent: "The Digital Workplace Capability Areas"
 ---
 
 # User Support

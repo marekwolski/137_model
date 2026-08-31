@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "The Digital Workplace Value Chain"
-permalink: /value_chain
+title: "The Digital Workplace Capability Areas"
+permalink: /capability_areas
 nav_order: 5
 ---
 
-# The Digital Workplace Value Chain
+# The Digital Workplace Capability Areas
 
 - what is a value chain?
 - how does the concept apply to the digital workplace?

@@ -3,7 +3,7 @@ layout: page
 title: "Security"
 permalink: /security
 nav_order: 3
-parent: "The Digital Workplace Value Chain"
+parent: "The Digital Workplace Capability Areas"
 ---
 
 # Security
@@ -12,7 +12,7 @@ parent: "The Digital Workplace Value Chain"
 
 Authentication and Authorisation
 
-- of people and devices and systems/applications ("carbon-based" and "silicon-based")
+- of people and devices and AI agents and systems/applications ("carbon-based" and "silicon-based")
 - for device access
 - for network access
 - for application access
