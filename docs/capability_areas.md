@@ -7,44 +7,47 @@ nav_order: 5
 
 # The Digital Workplace Capability Areas
 
-- what is a value chain?
-- how does the concept apply to the digital workplace?
-- what are the core links in this value chain?
 
 
-## The Core Links in the Digital Workplace Value Chain
 
-There are seven core links in the digital workplace value chain - the "7" from the "1-3-7" of the model's name.
+## The Capability Areas
 
-### Devices
+There are seven fundamental capability areas in the digital workplace value network - the "7" from the "1-3-7" of the model's name. If a digital workplace doesn't have something from each of these seven then it is incomplete; the users and the business are not getting what they need.
+
+### [Devices]({{site.baseurl}}/devices)
 - access to (mostly physical) devices for users to use.
 - lifecycle management of those devices
 
-### Application Presentation
+### [Application Presentation]({{site.baseurl}}/application_presentation)
 - getting applications to users
 
-### Security
+### [Security]({{site.baseurl}}/security)
 - IAM: Identity and Access Management
 - Defence: Protect, Detect and Respond
 
 
-### Network
+### [Network]({{site.baseurl}}/network)
 
 
-### Productivity, Collaboration and Augmentation
+### [Productivity, Collaboration and Augmentation]({{site.baseurl}}/productivity)
 
 
-### User Support
-- when a user gets stuck, getting them back to work
-- JML
+### [User Support]({{site.baseurl}}/user_support)
+- getting a user back to work when they get stuck
 
-### Outcome Loop
+### [Outcomes Loop]({{site.baseurl}}/outcomes_loop)
 - feedback loops that sense how the digital workplace is delivering
 - ability to respond to feedback and adjust
 
 
 
----
+## Value Networks
+
+
+
+- what is a value network?
+- how does the concept apply to the digital workplace?
+  - important since it connects the "theory" of the Capability Areas to the actual [Delivery]({{site.baseurl}}/delivering) of the Digital Workplace for the enterprise.
 
 
 
