@@ -7,6 +7,10 @@ nav_order: 6
 
 # Delivering the Digital Workplace
 
+The enterprise Digital Workplace team has two jobs. Just two. But they are to deliver the digital workplace to the enterprise, day-in, day-out, with fail AND to deliver a better digital workplace.
+
+
+
 - building platforms, products and services across the Capability Areas
 - products and services are what the user base sees and uses
 - Products are technology that users use directly
@@ -17,6 +21,10 @@ nav_order: 6
   - these would be delivered using the Product Operating Model
 
 
+
+THIS IS ALL ABOUT ESTABLISHING THE VALUE PROPOSITION (SEE THE VALUE PROPOSITION CANVAS TO HELP). THEN USING IT4IT AS A STANDARD OVERALL STRUCTURE FOR DELIVERY PLUS THE BEST FROM THE PRODUCT OPERATING MODEL TO ESTBALISH A PORTFOLIO OF PRODUCTS AND PLATFORMS. THESE NEED EFFECTIVE DEV AND OPS SUPPORT STRUCTURES (DEVOPS ANYONE?).
+
+NOTING THAT DEV STARTS AT STRATEGY AND ADDRESSES FEATURES, FIXES, RISK AND DEBT WHILE OPS ADDRESSES SERVICE REQUESTS, INCIDENTS, MAINTENANCE AND HOUSKEEPING. AM I TRYING TO REFRAME THE SERVICE WRAP PIECE HERE? POSSIBLY. ITIL HAS TO FIT HERE TOO. MAY NEED TO ADJUST THE RESPONSIBILITIES ACROSS DEV AND OPS. IMPORTANT TO CALL OUT THAT THESE ARE JUST THE WORK TO BE DONE - THEY DO NOT DEFINE AN ORG STRUCTURE!
 
 LOTS TO WRITE ABOUT HERE!!
 

@@ -9,8 +9,6 @@ nav_order: 2
 
 ## Problem Statement
 
-stuff ...
-
 For centuries we humans have drawn maps to help us understand and navigate large or complex spaces. Indeed, explorers who did draw maps tended to be the ones who got home again and were able share the tales of their adventures (and reap the profits!).
 
 In the modern world and the modern work environment, the digital workplace is a large and complex place. We need a map to help us understand it and make sure it is providing the required value. So the documentation here is my attempt to map out the modern digital workplace.
