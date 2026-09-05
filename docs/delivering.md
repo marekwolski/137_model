@@ -9,7 +9,7 @@ nav_order: 6
 
 The enterprise Digital Workplace team has two jobs. Just two. But they are to deliver the digital workplace to the enterprise, day-in, day-out, without fail AND to deliver a better digital workplace.
 
-
+IT'S ABOUT (AMONGST OTHER THINGS):
 
 - building platforms, products and services across the Capability Areas
 - products and services are what the user base sees and uses
