@@ -7,7 +7,7 @@ nav_order: 6
 
 # Delivering the Digital Workplace
 
-The enterprise Digital Workplace team has two jobs. Just two. But they are to deliver the digital workplace to the enterprise, day-in, day-out, with fail AND to deliver a better digital workplace.
+The enterprise Digital Workplace team has two jobs. Just two. But they are to deliver the digital workplace to the enterprise, day-in, day-out, without fail AND to deliver a better digital workplace.
 
 
 
