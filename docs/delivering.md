@@ -35,5 +35,5 @@ LOTS TO WRITE ABOUT HERE!!
 ## The Value Proposition
 
 - a version of the Value Proposition Canvas
-- user base = Jobs to be Done + Enablers + Gains + Pains
+- user base = Jobs to be Done + Gains + Pains
 - value proposition = Products & Services to enable, deliver gains and remove pains
