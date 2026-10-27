@@ -35,7 +35,7 @@ I wanted (needed!) some sort of reference model so it was easier to:
 - create accurate gap analyses to define innovation and transformation opportunities
 - keep a view of the "big picture".
 
-So far, my 1-3-7 Model seems to be meeting those needs.
+So far, for me at least, my 1-3-7 Model seems to be meeting those needs.
 
 
 
