@@ -12,7 +12,7 @@ nav_order: 5
 
 ## The Capability Areas
 
-There are seven fundamental capability areas in the digital workplace value network - the "7" from the "1-3-7" of the model's name. If a digital workplace doesn't have something from each of these seven then it is incomplete; the users and the business are not getting what they need.
+There are seven fundamental capability areas in the digital workplace value network - the "7" from the "1-3-7" of the model's name. If a digital workplace doesn't have something from each of these seven then it is incomplete: the users and the business are not getting what they need.
 
 ### [Devices]({{site.baseurl}}/devices)
 - access to (mostly physical) devices for users to use.
@@ -22,11 +22,15 @@ There are seven fundamental capability areas in the digital workplace value netw
 - getting applications to users
 
 ### [Security]({{site.baseurl}}/security)
-- IAM: Identity and Access Management
+- Identity and Access Management (IAM)
 - Defence: Protect, Detect and Respond
 
-
 ### [Network]({{site.baseurl}}/network)
+
+- Connectivity and Access
+- Proxies, filters and relays
+- Addressing and DNS
+- Time Sync
 
 
 ### [Productivity, Collaboration and Augmentation]({{site.baseurl}}/productivity)
@@ -41,7 +45,7 @@ There are seven fundamental capability areas in the digital workplace value netw
 
 
 
-## Value Networks
+## Value Networks (*develop this topic*)
 
 
 
@@ -51,7 +55,7 @@ There are seven fundamental capability areas in the digital workplace value netw
 
 
 
-## Value Streams (old notes - keep or ditch?)
+## Value Streams (*old notes - keep or ditch?*)
 
 A Value Stream can be defined to be:
 

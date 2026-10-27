@@ -29,7 +29,7 @@ If you take nothing else away after reading my map, then I hope you'll find **1-
 
 
 
-## Notes on Vision
+## Notes on Vision (*draft and wip section*)
 
 In support of corporate ambitions including being a great place to work and driving down the cost of operation …
 

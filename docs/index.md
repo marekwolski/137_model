@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # The Official Guide to the 1-3-7 Model
 
-## A reference model for the modern digital workplace
+## The missing reference model for the modern digital workplace
 
 
 
@@ -23,7 +23,9 @@ Start here for the [Introduction]({{site.baseurl}}/introduction).
 
 ## Why ... ?
 
-I decided to write this guide after failing to find anything like it that wasn't compromised by the need of a vendor to sell their stuff or skewed by someone dazzled by the latest wizzy thing.
+I decided to create this model and write this guide after failing to find anything like it that wasn't compromised by the need of a vendor to sell their stuff or skewed by someone dazzled by the latest wizzy thing.
+
+I'm trying to plug a gap: we're missing a reference model for the Digital Workplace.
 
 I work as a Chief Architect for a systems integrator on a large digital workplace services contract. It's my job to collect **all** the pieces for solutions that are required and knit them together into something **that works for all the stakeholders**.
 
