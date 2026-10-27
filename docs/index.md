@@ -32,7 +32,7 @@ I work as a Chief Architect for a systems integrator on a large digital workplac
 I wanted (needed!) some sort of reference model so it was easier to:
 - describe the current state of the digital workplace that I help to maintain and develop
 - describe desired target states of the digital workplace system and what makes them desireable
-- create accurate gap analyses to define transformation opportunities
+- create accurate gap analyses to define innovation and transformation opportunities
 - keep a view of the "big picture".
 
 So far, my 1-3-7 Model seems to be meeting those needs.
