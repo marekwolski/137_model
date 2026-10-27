@@ -29,6 +29,27 @@ If you take nothing else away after reading my map, then I hope you'll find **1-
 
 
 
+
+
+---
+
+# Notes on the evolution of the workplace
+
+| Version | Characteristics                                              |
+| ------- | ------------------------------------------------------------ |
+| Mk I    | Bare Hands                                                   |
+| Mk II   | Physical Tools (still relying on human energy and ability to follow a set of instructions) |
+| Mk III  | Physical Machines (the machine now does the work but under human supervision) |
+| Mk IV   | Software Tools                                               |
+| Mk V    | Software Machines (AI Agents)                                |
+| Mk VI   | Autonomous Businesses? (The delivery of value is designed, delivered, improved and re-aligned with no human involvement) |
+
+
+
+**Digital Transformation** - where the "means of production" or the delivery of value to customers moves from human interactions to software.
+
+
+
 ## Notes on Vision (*draft and wip section*)
 
 In support of corporate ambitions including being a great place to work and driving down the cost of operation …
